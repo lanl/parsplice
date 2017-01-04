@@ -1,0 +1,2 @@
+ParSplice is now under heavy development as part of the EXAALT project. Production quality EXAALT releases are expected to be available from Q4 2017.
+Contributions are not requested at this point. In the future, contributions will be accepted through the EXAALT project.
